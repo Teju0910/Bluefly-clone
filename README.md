@@ -35,7 +35,8 @@ Bluefly offers an e-commerce platform that sells designer apparel and accessorie
 
 ## Authors
 
- -[Tejasvini](https://github.com/Teju0910)
+
+- [Tejasvini](https://github.com/Teju0910)
 - [Atin Sahu](https://github.com/atin-sahu)
 - [Sravani](https://github.com/Sravani0410)
 - [Jitender](https://github.com/jitender004)
